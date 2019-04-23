@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xtuber.Api", "Xtuber.Api\Xt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xtuber.Wpf", "Xtuber.Wpf\Xtuber.Wpf.csproj", "{4075B433-DA04-45E9-94E2-D960BAF300FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xtuber.Unity", "Xtuber.Unity\Xtuber.Unity.csproj", "{2A2AE59D-717B-96D2-1443-AC2C6D15BBDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4075B433-DA04-45E9-94E2-D960BAF300FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4075B433-DA04-45E9-94E2-D960BAF300FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4075B433-DA04-45E9-94E2-D960BAF300FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2AE59D-717B-96D2-1443-AC2C6D15BBDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2AE59D-717B-96D2-1443-AC2C6D15BBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2AE59D-717B-96D2-1443-AC2C6D15BBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2AE59D-717B-96D2-1443-AC2C6D15BBDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
