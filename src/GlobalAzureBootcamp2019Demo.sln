@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.202
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xtuber.Api", "Xtuber.Api\Xtuber.Api.csproj", "{5B1BDF41-3AC0-4763-8692-9929CCC0A2F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xtuber.Api", "Xtuber.Api\Xtuber.Api.csproj", "{5B1BDF41-3AC0-4763-8692-9929CCC0A2F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xtuber.Wpf", "Xtuber.Wpf\Xtuber.Wpf.csproj", "{4075B433-DA04-45E9-94E2-D960BAF300FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5B1BDF41-3AC0-4763-8692-9929CCC0A2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B1BDF41-3AC0-4763-8692-9929CCC0A2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B1BDF41-3AC0-4763-8692-9929CCC0A2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4075B433-DA04-45E9-94E2-D960BAF300FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4075B433-DA04-45E9-94E2-D960BAF300FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4075B433-DA04-45E9-94E2-D960BAF300FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4075B433-DA04-45E9-94E2-D960BAF300FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
