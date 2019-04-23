@@ -317,6 +317,9 @@ __pycache__/
 # OpenCover UI analysis results
 OpenCover/
 
+# Azure Functions localsettings file
+local.settings.json
+
 # Azure Stream Analytics local run output 
 ASALocalRun/
 
